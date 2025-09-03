@@ -5,7 +5,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologias, jogos, filmes e espo
 ##
 
 
-## Aqui estão alguns projetos pessoais que fiz para passar o tempo xD
+## Aqui estão alguns projetos pessoais que fiz para passar o tempo
 
 - https://telefonia-nine.vercel.app/ <- Feito em React
 - https://home-baking-angular.vercel.app/home <- Feito em Angular
