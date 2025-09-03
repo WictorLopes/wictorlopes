@@ -4,12 +4,27 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologias, jogos, filmes e espo
 
 ##
 
+
+## Aqui estão alguns projetos pessoais que fiz para passar o tempo xD
+
+- https://telefonia-nine.vercel.app/ <- Feito em React
+- https://home-baking-angular.vercel.app/home <- Feito em Angular
+- https://climatec.vercel.app/home  <- Feito em Vue (banco e back desligados)
+- https://edu-connect-five.vercel.app/dashboard <- Feito em Vue (banco e back desligados)
+- https://soller-five.vercel.app/ <- Feito em React
+- https://agenda-app-beige.vercel.app/ <- Feito em Vue (banco e back feito em c# desligados)
+- https://concessionaria-h49o.onrender.com/login.html <- Feito em JavaScript puro (back em c# desligado, dados mocados)
+- https://ecommerce-react-three-ruby.vercel.app/ <- Feito em React
+
+##
+
 <div> 
   <a href="https://instagram.com/owictorlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/users/wictorlopes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wictorlopes258@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wictor-lopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 
 ##
 
