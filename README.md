@@ -18,6 +18,20 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologias, jogos, filmes e espo
 
 ##
 
+
+<!--github stats
+<div align="center" style="display: inline">
+   <a href="https://github.com/WictorLopes">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=wictorlopes&show_icons=true&theme=radical"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorLopes&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+   </div>
+</div>
+-->
+
+##
+
+
 <div> 
   <a href="https://instagram.com/owictorlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/users/wictorlopes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
