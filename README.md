@@ -16,6 +16,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologias, jogos, filmes e espo
 - https://concessionaria-h49o.onrender.com/login.html <- Feito em JavaScript puro (back em c# desligado, mas com dados mocados)
 - https://ecommerce-react-three-ruby.vercel.app/ <- Feito em React
 - https://reserva-salas-lemon.vercel.app/ <- Feito em React(back feito em c# desligado, mas com dados mockados)
+-  https://loja-produtos-zeta.vercel.app/ <- Feito em React consumindo API pública
 
 ##
 
