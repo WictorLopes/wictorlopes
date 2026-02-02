@@ -1,24 +1,60 @@
-## Olá, sou o Wictor Lopes
+## 👋 Olá, eu sou o Wictor Lopes
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologias, jogos, filmes e esportes. Possuo ampla experiência em desenvolvimento de jogos e sistemas web, utilizando diversas linguagens de programação, como C, C#, Java, JavaScript, HTML, CSS, Vue.js, Nuxt.js, Next.js, React.js, MongoDB, SQL, PHP, Ptyhon, Django, TypeScript e Lua.
+Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia, jogos, filmes e esportes.  
+Tenho experiência no desenvolvimento de **sistemas web** e **aplicações interativas**, atuando tanto no frontend quanto no backend.
 
-##
+Trabalho com diversas tecnologias, incluindo:
 
+**Frontend:**  
+HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, Next.js, Angular  
 
-## Aqui estão alguns projetos pessoais que fiz para passar o tempo
+**Backend:**  
+C#, .NET, Java, PHP, Python, Django, Node.js  
 
-- https://telefonia-nine.vercel.app/ <- Feito em React
-- https://home-baking-angular.vercel.app/home <- Feito em Angular
-- https://climatec.vercel.app/home  <- Feito em Vue (banco e back desligados)
-- https://edu-connect-five.vercel.app/dashboard <- Feito em Vue (banco e back desligados)
-- https://soller-five.vercel.app/ <- Feito em React
-- https://agenda-app-beige.vercel.app/ <- Feito em Vue (banco e back feito em c# desligados)
-- https://concessionaria-h49o.onrender.com/login.html <- Feito em JavaScript puro (back em c# desligado, mas com dados mocados)
-- https://ecommerce-react-three-ruby.vercel.app/ <- Feito em React
-- https://reserva-salas-lemon.vercel.app/ <- Feito em React(back feito em c# desligado, mas com dados mockados)
--  https://loja-produtos-zeta.vercel.app/ <- Feito em React consumindo API pública
+**Banco de Dados:**  
+MongoDB, SQL  
 
-##
+---
+
+## 🚀 Projetos Pessoais
+
+Aqui estão alguns projetos que desenvolvi para estudo, prática e evolução técnica:
+
+- 🔹 **Telefonia** – React  
+  https://telefonia-nine.vercel.app/
+
+- 🔹 **Home Baking** – Angular  
+  https://home-baking-angular.vercel.app/home
+
+- 🔹 **Climatec** – Vue.js *(backend desligado)*  
+  https://climatec.vercel.app/home
+
+- 🔹 **Edu Connect** – Vue.js *(backend desligado)*  
+  https://edu-connect-five.vercel.app/dashboard
+
+- 🔹 **Soller** – React  
+  https://soller-five.vercel.app/
+
+- 🔹 **Agenda App** – Vue.js + .NET *(backend desligado)*  
+  https://agenda-app-beige.vercel.app/
+
+- 🔹 **Concessionária** – JavaScript puro + .NET *(dados mockados)*  
+  https://concessionaria-h49o.onrender.com/login.html
+
+- 🔹 **E-commerce** – React  
+  https://ecommerce-react-three-ruby.vercel.app/
+
+- 🔹 **Reserva de Salas** – React + .NET *(dados mockados)*  
+  https://reserva-salas-lemon.vercel.app/
+
+- 🔹 **Loja de Produtos** – React consumindo API pública  
+  https://loja-produtos-zeta.vercel.app/
+
+- 🔹 **Gastos Residenciais** – React + .NET *(dados mockados no frontend)*  
+  https://gastos-residenciais-kappa.vercel.app/
+
+---
+
 
 
 <!--github stats
