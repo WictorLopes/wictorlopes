@@ -53,6 +53,9 @@ Aqui estão alguns projetos que desenvolvi para estudo, prática e evolução t�
 - 🔹 **Gastos Residenciais** – React + .NET *(dados mockados no frontend)*  
   https://gastos-residenciais-kappa.vercel.app/
 
+- 🔹 **Loja de Action Figure** – React  
+  https://2ehprimo.vercel.app/
+
 ---
 
 
